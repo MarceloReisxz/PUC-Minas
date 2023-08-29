@@ -1,0 +1,1 @@
+Boa noite professore, encontrei algumas dúvidas no exemplo 0420, não consegui realizar a soma dos valore. Gostaria de saber se o senhor poderia passar o link do share point na próxima aula.
