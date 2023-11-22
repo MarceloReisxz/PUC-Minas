@@ -4,7 +4,7 @@ SET client_min_messages = warning;
 SET row_security = off;
 
 --
--- Name: id-jogo; Type: SEQUENCE; Schema: public; Owner: ti2cc
+-- Name: id-jogo; Type: SEQUENCE; Schema: public; Owner: 
 --
 
 CREATE SEQUENCE public."id-jogo"
@@ -22,7 +22,7 @@ SET default_tablespace = '';
 SET default_table_access_method = heap;
 
 --
--- Name: jogo; Type: TABLE; Schema: public; Owner: ti2cc
+-- Name: jogo; Type: TABLE; Schema: public; Owner: 
 --
 
 CREATE TABLE public.jogo (
@@ -35,7 +35,7 @@ CREATE TABLE public.jogo (
 ALTER TABLE public.jogo OWNER TO ti2cc;
 
 --
--- Name: jogo jogo_pkey; Type: CONSTRAINT; Schema: public; Owner: ti2cc
+-- Name: jogo jogo_pkey; Type: CONSTRAINT; Schema: public; Owner: 
 --
 
 ALTER TABLE ONLY public.jogo
