@@ -15,7 +15,7 @@ CREATE SEQUENCE public."id-jogo"
     CACHE 1;
 
 
-ALTER TABLE public."id-jogo" OWNER TO ti2cc;
+ALTER TABLE public."id-jogo" OWNER TO x;
 
 SET default_tablespace = '';
 
@@ -32,7 +32,7 @@ CREATE TABLE public.jogo (
 );
 
 
-ALTER TABLE public.jogo OWNER TO ti2cc;
+ALTER TABLE public.jogo OWNER TO x;
 
 --
 -- Name: jogo jogo_pkey; Type: CONSTRAINT; Schema: public; Owner: 
