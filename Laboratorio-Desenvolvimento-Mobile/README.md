@@ -9,4 +9,4 @@
 
 ![alt text](https://github.com/MarceloReisxz/PUC-Minas/blob/main/Laboratorio-Desenvolvimento-Mobile/app/images/homepage.png)
 ![alt text](https://github.com/MarceloReisxz/PUC-Minas/blob/main/Laboratorio-Desenvolvimento-Mobile/app/images/teamsList.png)
-
+![alt text](https://github.com/MarceloReisxz/PUC-Minas/blob/main/Laboratorio-Desenvolvimento-Mobile/app/images/playersCompare.png)
