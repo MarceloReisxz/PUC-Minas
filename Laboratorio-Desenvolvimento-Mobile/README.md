@@ -8,5 +8,5 @@
 ->Api: https://www.balldontlie.io/home.html#get-all-stats
 
 ![alt text](https://github.com/MarceloReisxz/PUC-Minas/blob/main/Laboratorio-Desenvolvimento-Mobile/app/images/homepage.png)
-
+![alt text](https://github.com/MarceloReisxz/PUC-Minas/blob/main/Laboratorio-Desenvolvimento-Mobile/app/images/teamsList.png)
 
