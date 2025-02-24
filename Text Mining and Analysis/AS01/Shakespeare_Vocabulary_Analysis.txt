@@ -1,0 +1,15 @@
+---- LEMATIZADOR (WordNet Lemmatizer) ------
+Tamanho do vocabulário: 3103
+Número médio de ocorrências: 3.07
+Tamanho médio dos tokens: 6.26
+
+---- STEMMING (Porter Stemmer) ------
+Tamanho do vocabulário: 2842
+Número médio de ocorrências: 3.35
+Tamanho médio dos tokens: 5.65
+
+---- STEMMING (Snowball Stemmer) ------
+Tamanho do vocabulário: 2814
+Número médio de ocorrências: 3.38
+Tamanho médio dos tokens: 5.65
+
