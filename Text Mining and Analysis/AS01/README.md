@@ -1,5 +1,3 @@
-Este repositório contém a implementação do pré-processamento textual do arquivo Shakespeare.txt, localizado no diretório datasets/Arquivos. O objetivo é aplicar diversas técnicas de processamento de linguagem natural (PLN) para preparar o texto para análises futuras.
-
 # 1. Normalização
 
 Realiza as seguintes operações no arquivo de entrada e gera o arquivo Shakespeare_Normalized.txt:
