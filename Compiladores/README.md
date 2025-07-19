@@ -1,4 +1,4 @@
-# Interpretador Bytecode
+# TP1 - Compiladores
 
 Este projeto é um interpretador de bytecode para uma tiny language baseada em máquina de pilha.
 
